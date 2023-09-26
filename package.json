@@ -9,9 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@yomo/group-hug-react": "^1.0.14",
+    "@yomo/presence": "^2.2.18",
+    "next": "latest",
     "react": "latest",
-    "react-dom": "latest",
-    "next": "latest"
+    "react-dom": "latest"
   },
   "devDependencies": {
     "typescript": "latest",
