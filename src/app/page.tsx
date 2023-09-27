@@ -1,5 +1,6 @@
 import dynamic from 'next/dynamic'
 import Image from 'next/image'
+import '@yomo/group-hug-react/style.css'
 
 const GH = dynamic(() => import('./gh'), { ssr: false })
 
